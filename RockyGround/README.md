@@ -8,3 +8,9 @@ The reference images were all personal photos and the tutorial series ["Substanc
 
 Art Station: https://www.artstation.com/artwork/dKVyqK
 Substance 3D Community Assets:
+
+[![Perspective View](RockyGround_Perspective.png 'Perspective View')](RockyGround_Top.png)
+
+[![Top Orthographic View](RockyGround_Top.png 'Top Orthographic View')](RockyGround_Top.png)
+
+[![Material Layers View](MaterialLayers.png 'Material Layers View')](MaterialLayers.png)
