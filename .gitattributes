@@ -7,3 +7,6 @@
 *.sbsar -text
 *.sbs text eol=lf
 *.sbs text
+
+# LFS files
+RockyGround/Export/MaterialLayers.psd filter=lfs diff=lfs merge=lfs -text
