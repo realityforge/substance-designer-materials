@@ -1,3 +1,5 @@
+[![Perspective View](RockyGround_Perspective.png 'Perspective View')](RockyGround_Top.png)
+
 # Rocky Ground
 
 This material is inspired by the rocky paths around hard sandstone cliffs such as Mt Arapiles and the Grampians in Australia.
@@ -8,8 +10,6 @@ The reference images were all personal photos and the tutorial series ["Substanc
 
 Art Station: https://www.artstation.com/artwork/dKVyqK
 Substance 3D Community Assets:
-
-[![Perspective View](RockyGround_Perspective.png 'Perspective View')](RockyGround_Top.png)
 
 [![Top Orthographic View](RockyGround_Top.png 'Top Orthographic View')](RockyGround_Top.png)
 
