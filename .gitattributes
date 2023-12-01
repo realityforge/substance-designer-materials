@@ -5,4 +5,5 @@
 *.fbx -text
 *.png -text
 *.sbsar -text
+*.sbs text eol=lf
 *.sbs text
