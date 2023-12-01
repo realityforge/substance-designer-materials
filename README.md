@@ -9,7 +9,7 @@ in other contexts.
 <table>
 <tbody>
 <tr valign="top">
-<td>
+<td width="50%">
 
 [![Top Orthographic View](RockyGround/RockyGround_Top.png 'Top Orthographic View')](RockyGround/RockyGround_Top.png)
 
