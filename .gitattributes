@@ -1,0 +1,8 @@
+.gitattributes text
+.gitignore text
+*.md text
+*.psd -text
+*.fbx -text
+*.png -text
+*.sbsar -text
+*.sbs text
