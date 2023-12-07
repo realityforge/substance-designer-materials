@@ -5,7 +5,7 @@
 *.fbx -text
 *.png -text
 *.sbsar -text
-*.sbs text eol=lf
+*.sbs text eol=crlf
 
 # LFS files
 RockyGround/Export/MaterialLayers.psd filter=lfs diff=lfs merge=lfs -text
