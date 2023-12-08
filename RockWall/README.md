@@ -2,7 +2,7 @@
 
 # Rock Wall
 
-This tilable material is inspired by some of the rock wall formations around hard sandstone cliffs such as Mt Arapiles and the Grampians in Australia.
+This tiling material is inspired by some of the rock wall formations around hard sandstone cliffs such as Mt Arapiles and the Grampians in Australia.
 
 This material was originally created to support the student project "A Few Screws Loose" where it was as part of the cave walls.
 
