@@ -30,7 +30,7 @@ in other contexts.
 <tr valign="top">
 <td width="50%">
 
-[![Perspective View](RockyWall/RockWall_Perspective.png 'Perspective View')](RockWall/RockWall_Perspective.png)
+[![Perspective View](RockWall/RockWall_Perspective.png 'Perspective View')](RockWall/RockWall_Perspective.png)
 
 </td>
 <td>
