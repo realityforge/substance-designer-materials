@@ -1,4 +1,4 @@
-[![Perspective View](RockyGround_Perspective.png 'Perspective View')](RockyGround_Top.png)
+[![Perspective View](RockyGround_Perspective.png 'Perspective View')](RockyGround_Perspective.png)
 
 # Rocky Ground
 
