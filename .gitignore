@@ -1,2 +1,8 @@
 # Ignore Substance Designer Auto-save directories
 */.autosave
+
+# Ignore Substance Painter Auto-save files
+**/*_autosave_*.spp
+
+# Blender Auto-save files
+**/*.blend1
