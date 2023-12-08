@@ -6,3 +6,9 @@
 
 # Blender Auto-save files
 **/*.blend1
+
+
+# Assets downloaded from releases to avoid using LFS
+RockWall/Export/MaterialLayers.psd
+RockWall/Export/RockWall.blend
+RockWall/Export/RockWall.spp
