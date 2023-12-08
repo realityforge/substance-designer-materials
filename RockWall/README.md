@@ -8,7 +8,7 @@ This material was originally created to support the student project "A Few Screw
 
 The reference images were all personal photos and the techniques present in the substance are derived from a range of tutorials.
 
-Art Station: 
+Art Station: https://www.artstation.com/artwork/XgvkV0
 Substance 3D Community Assets: 
 
 [![Top Orthographic View](RockyWall_Top.png 'Top Orthographic View')](RockyWall_Top.png)
