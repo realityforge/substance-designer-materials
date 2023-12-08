@@ -23,19 +23,19 @@ in other contexts.
 </tbody>
 </table>
 
-## [Rocky Wall](RockyWall/)
+## [Rocky Wall](RockWall/)
 
 <table>
 <tbody>
 <tr valign="top">
 <td width="50%">
 
-[![Perspective View](RockyWall/RockyWall_Perspective.png 'Perspective View')](RockyWall/RockyWall_Perspective.png)
+[![Perspective View](RockyWall/RockWall_Perspective.png 'Perspective View')](RockWall/RockWall_Perspective.png)
 
 </td>
 <td>
 
-[![Material Layers View](RockyWall/MaterialLayers.png 'Material Layers View')](RockyWall/MaterialLayers.png)
+[![Material Layers View](RockWall/MaterialLayers.png 'Material Layers View')](RockWall/MaterialLayers.png)
 
 </td>
 </tr>
