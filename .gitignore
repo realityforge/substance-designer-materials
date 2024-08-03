@@ -7,6 +7,7 @@
 # Blender Auto-save files
 **/*.blend1
 
+*.sbs text eol=lf
 
 # Assets downloaded from releases to avoid using LFS
 RockWall/Export/MaterialLayers.psd
